@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "author": "Tanish",
   "description": "A modern, clean Zazu theme.",
-  "stylesheet": "css/main.css"
+  "stylesheet": "dist/main.css"
 }

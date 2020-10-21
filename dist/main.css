@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 section#zazu div.results ul li:after {
   content: "";
@@ -7,7 +6,9 @@ section#zazu div.results ul li:after {
 
 * {
   box-sizing: border-box; }
-
+input[type="text"]{
+  font-style:'Arvo',sans-serif;
+}
 html, body {
   margin: 0;
   padding: 0;

@@ -5,10 +5,13 @@ section#zazu div.results ul li:after {
   clear: both; }
 
 * {
-  box-sizing: border-box; }
+  box-sizing: border-box; 
+}
+
 input[type="text"]{
   font-style:'Arvo',sans-serif;
 }
+
 html, body {
   margin: 0;
   padding: 0;
@@ -34,9 +37,13 @@ section#zazu {
   background-size: 60px;
   -webkit-app-region: drag;
   cursor: move;
- box-shadow:0 0 20px 2px rgba(0,0,0,.3);
+ box-shadow:0 0 40px 4px rgba(0,0,0,.7);
   border-radius: 7px;
   font-family: 'Arvo', sans-serif;}
+
+section#zazu:hover,section#zazu:active{
+ box-shadow:0 0 60px 6px rgba(0,0,0,.9);
+}
   section#zazu > div {
     background: #FFF;
     border-radius: 7px; }

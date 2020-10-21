@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 section#zazu div.results ul li:after {
   content: "";
   display: table;
@@ -32,9 +33,9 @@ section#zazu {
   background-size: 60px;
   -webkit-app-region: drag;
   cursor: move;
- box-shadow:0 0 10px 5px rgba(0,0,0,.8);
+ box-shadow:0 0 20px 2px rgba(0,0,0,.3);
   border-radius: 7px;
-  font-family: 'Open Sans', sans-serif;}
+  font-family: 'Arvo', sans-serif;}
   section#zazu > div {
     background: #FFF;
     border-radius: 7px; }

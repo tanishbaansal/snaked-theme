@@ -32,7 +32,7 @@ section#zazu {
   background-size: 60px;
   -webkit-app-region: drag;
   cursor: move;
- box-shadow:0 0 10px 1px rgba(0,0,0,.3);
+ box-shadow:0 0 10px 1px rgba(0,0,0,.8);
   border-radius: 25px;
   font-family: 'Open Sans', sans-serif;}
   section#zazu > div {
